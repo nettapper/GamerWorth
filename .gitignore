@@ -1,0 +1,8 @@
+# Common files to be ignored
+
+# Editor backups:
+*~
+
+# Django stuff:
+*.log
+*.pot
