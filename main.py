@@ -2,7 +2,8 @@
 import accounts
 
 def main():
-    test = accounts.Xbox("TalentedAndrew")
+    user_in = input("Please enter in Xbox Gamertag:")
+    test = accounts.Xbox(user_in)
     print(test)
 
 if __name__ == "__main__":
