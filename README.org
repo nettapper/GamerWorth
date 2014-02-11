@@ -1,0 +1,8 @@
+* GameWorth
+** FAQ
+   Nothing at the moment
+** Project Dependancies
+*** Requests
+**** Version: 2.2.1
+**** Used for fetching the gamer profiles in accounts.py
+**** http://docs.python-requests.org/en/latest/user/install/

@@ -1,4 +1,6 @@
 # accounts class
+# contains classes used to interact with gamer profiles
+
 class Xbox():
     def __init__(self, gamertag):
         if type(gamertag) != str:
