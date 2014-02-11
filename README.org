@@ -1,6 +1,11 @@
 * GameWorth
 ** FAQ
-   Nothing at the moment
+*** Package Manager
+**** Setup tools
+     I used [[https://pypi.python.org/pypi/setuptools][SetupTools]] but feel free to use your own package manager
+     The link should hopefully provide some useful information
+*** Which Python?
+**** We use python 3, Version 3.3.3
 ** Project Dependancies
 *** Requests
 **** Version: 2.2.1
